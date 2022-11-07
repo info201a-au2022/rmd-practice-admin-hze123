@@ -18,5 +18,6 @@ I write a paragraph here. I will highlight that the total number of US cases is 
 I also want to show the chart:
 ``` {r echo=FALSE}
 cases_plot
+
 ```
 
